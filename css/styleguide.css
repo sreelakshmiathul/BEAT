@@ -1,0 +1,113 @@
+:root { 
+  --alabaster: #fbfbfb;
+  --alto: #d9d9d92e;
+  --astronaut: #12397b;
+  --bay-of-many: #133c80;
+  --black: #000000;
+  --blaze-orange: #ff6506;
+  --blaze-orange-2: #ff6a06;
+  --eerie-black: #171a1f;
+  --eerie-black-2: #171a1fc4;
+  --mercury: #eae5e5;
+  --new-car: #1c5bc8;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 22px;
+  --font-size-s: 20px;
+  --font-size-xl: 30.2px;
+  --font-size-xs: 14.8px;
+  --font-size-xxl: 34px;
+  --font-size-xxxl: 62px;
+ 
+  --font-family-helvetica-regular: "Helvetica-Regular", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.inter-normal-black-14-8px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-medium-white-34px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-normal-eerie-black-20px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-bold-bay-of-many-30-2px {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-medium-bay-of-many-30-2px {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-bold-eerie-black-24px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-medium-black-23-3px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 23.3px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-semi-bold-black-42-8px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 42.8px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-bold-eerie-black-24px-2 {
+  color: var(--eerie-black-2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-eerie-black-24px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
